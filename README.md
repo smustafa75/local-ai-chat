@@ -1,4 +1,4 @@
-# Ollama Agent
+# Local AI Chat Interface
 
 Simple Python integration with Ollama for AI task execution, now with Strand Agent for enhanced chat handling. Includes built-in security guardrails for prompt injection prevention and input sanitization.
 
