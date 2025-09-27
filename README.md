@@ -40,22 +40,6 @@ python3 strand_cli.py chat "What is machine learning?"
 python3 strand_cli.py stream "Tell me a story"
 ```
 
-### Original CLI
-
-```bash
-# Basic chat
-python3 cli.py chat "What is machine learning?"
-
-# Structured task
-python3 cli.py task "analyze_data" --data '{"numbers": [1,2,3,4,5]}'
-
-# Streaming response
-python3 cli.py stream "code_review" --data '{"code": "def hello(): return \"world\""}'
-
-# Use different model
-python3 cli.py chat "Hello" --model "llama3.1"
-```
-
 ### Python API
 
 #### Strand Agent Integration
