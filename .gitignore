@@ -41,3 +41,6 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Medium article
+medium_article.md
